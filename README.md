@@ -23,7 +23,7 @@ This Cubecart module provides an easy method to integrate with the payment gatew
 # Installing and configuring the module
 
 1. Copy the contents of the httpdocs into your root directory of CubeCart. If you are prompted to overwrite or merge files, click 'Yes' to all
-2. Login to the Admin panel of your CubeCart Shop
+2. Log in to the Admin panel of your CubeCart Shop
 3. Select 'Payment Gateway' under the 'Module' subheading in the left hand menu
 4. Look for CardStream and select the checkbox to the left of the logo. Scroll down and click 'save'
 5. From the same screen, click the 'edit' icon to the right of the CardStream module. Ensure that the 'Status' and 'Default' boxes are checked. Your payment gateway URL should correctly be set to 'https://gateway.cardstream.com/hosted/' by default. Fill in the relevant information in the boxes shown and click 'save'
